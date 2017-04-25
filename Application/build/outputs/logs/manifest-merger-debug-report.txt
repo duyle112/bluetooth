@@ -1,0 +1,164 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:16:1-50:12
+	xmlns:android
+		ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:16:11-69
+	package
+		ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:17:5-48
+	android:versionName
+		ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:19:5-30
+		INJECTED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:18:5-28
+		INJECTED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:23:5-74
+	android:name
+		ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:23:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:24:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:25:22-78
+application
+ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:27:5-48:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:30:9-41
+	android:allowBackup
+		ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:28:9-35
+	android:icon
+		ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:29:9-45
+	android:theme
+		ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:31:9-40
+activity#com.example.android.bluetoothchat.MainActivity
+ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:32:9-41:20
+	android:label
+		ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:35:13-45
+	android:configChanges
+		ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:34:13-63
+	android:name
+		ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:33:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:39:27-74
+activity#com.example.android.bluetoothchat.DeviceListActivity
+ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:42:9-46:64
+	android:label
+		ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:45:13-50
+	android:configChanges
+		ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:44:13-63
+	android:theme
+		ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:46:13-61
+	android:name
+		ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:43:13-47
+activity#com.example.android.bluetoothchat.ImageDetail
+ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:47:9-58
+	android:name
+		ADDED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml:47:19-46
+uses-sdk
+INJECTED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [io.realm:realm-android-library:2.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\io.realm\realm-android-library\2.2.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.getkeepsafe.relinker\relinker\1.2.2\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:recyclerview-v7:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-v4:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+	android:targetSdkVersion
+		INJECTED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\BluetoothChat\BluetoothChat\Application\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] D:\BluetoothChat\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:23:9-75
